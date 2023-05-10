@@ -1,1 +1,2 @@
-/data/.
+data/index_train.csv
+data/index_test.csv
