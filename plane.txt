@@ -1,0 +1,12 @@
+1. model 
+a simple svm model 
+using the bags of word model to generate the feature vectors 
+Improving: add bigram features 
+
+- criterion: binary classification: accuracy, precision, recall, f1score
+confusion matrix -- useless 
+
+2. preprocessing 
+(1) ignore the tags First
+(2) introducing the tages: assign much higher weigths for the tages words 
+
